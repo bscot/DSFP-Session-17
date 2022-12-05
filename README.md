@@ -20,51 +20,53 @@ Monday Sep 19, 2022
 * 03:30 PM – 04:00 PM o Break 
 * 04:00 PM – 05:00 PM o [Introduction to Bayesian Statistics](Day1/Bayes.pdf); J Dong 
  
-## Day 2 – Visualization in Practice: Storytelling, Science Communication, and Figure Building: Bryan Scott & Zan Armstrong
+## Day 2 – Visualization in Practice: Storytelling, Science Communication, and Figure Building: Bryan Scott, Angus Forbes, and Zan Armstrong
 
 ""
 
 -- 
 
 Tuesday, Sep 20, 2022
-* 09:00 AM - 10:00 AM o [An Introduction to Sampling, PyMC](Day2/MCMC.pdf) – J Dong  
+* 09:00 AM - 10:00 AM o [Storytelling with Data](); Z Armstrong
 * 10:00 AM - 10:30 AM o Break 
-* 10:30 AM - 12:00 PM o [Sampling](Day2/Sampling.ipynb) | [Sampling Solution](Day2/Sampling_solution.ipynb) | [PyMC Applied](Day2/PyMC_applied.ipynb) | [PyMC Applied Solution](Day2/PyMC_applied_solution.ipynb) –– PyMC applied to real data; J Dong  
+* 10:30 AM - 12:00 PM o [Storytelling in Practice]() | [Solution](); Z Armstrong
 * 12:00 PM - 01:30 PM o LUNCH 
-* 01:30 PM - 02:30 PM o [An introduction to comparison metrics](Day2/metrics_presentation.pdf); A Malz  
-* 02:30 PM - 04:00 PM o Problem –– Problem: An introduction to comparison metrics; A Malz  
+* 01:30 PM - 02:30 PM o [Figure Building and Visualization Libraries](); B Scott 
+* 02:30 PM - 04:00 PM o Problem –– Improving Figures; B Scott  
 * 04:00 PM - 04:30 PM o BREAK 
-* 04:30 PM - 05:15 PM o [Priors, Likelihoods, Posteriors, and all that](Day2/Priors%2C%20Likelihoods%2C%20Posteriors%20and%20All%20That.ipynb); B Scott  
-* 05:15 PM - 06:00 PM o [Problem](Day2/Priors%2C%20Likelihoods%2C%20Posteriors%2C%20and%20All%20That%20Problems%20no%20solutions.ipynb) | [Solution](Day2/Priors%2C%20Likelihoods%2C%20Posteriors%2C%20and%20All%20That%20Problems.ipynb): Priors, Likelihoods, Posteriors, and all that; B Scott
+* 04:30 PM - 05:15 PM o [Advanced Visualization Libraries (yt, glue (?)](); A Forbes  
+* 05:15 PM - 06:00 PM o [Problem - Advanced Visualization Libraries](); A Forbes
 * 06:00 PM - ??:?? PM o Group dinner 
  
-## Day 3 — Scientific Discovery - Exploratory Data Analysis and Interactive Visualization: Angus Forbes and Bryan Scott 
+## Day 3 — Scientific Discovery - Astronomical Visualization  
 
 ""
 
 -- 
 
 Wednesday, Sep 21, 2022
-* 09:00 AM – 09:45 AM o  [Probabilistic Graphical Models](Day3/PGM-slides.pdf), A Price-Whelan  
+* 09:00 AM – 09:45 AM o  [Cosmo-Vis and Polyform, Advanced Visualization Principles](Day3/PGM-slides.pdf), A Forbes
 * 09:45 AM – 10:15 AM o Break 
-* 10:15 AM – 12:00 PM o  [Problem](Day3/Probabilistic-Graphical-Models.ipynb)| [Solutions](Day3/solutions): Probabilistic Graphical Models, A Price-Whelan  
-* 12:00 PM – ??:?? PM o BREAK 
+* 10:15 AM – 12:00 PM o  [Problem]()| [Solutions](): Cosmo-Vis Problems, A Forbes
+* 12:00 - 12:30 PM o Hack Pitch Session 
+* 12:30 PM – ??:?? PM o BREAK 
 
-## Day 4 — Scientific Discovery - Advanced Topics and Hack Day: Angus Forbes
+## Day 4 — Scientific Discovery - Advanced Visualization Topics and Hack Day: Angus Forbes
 
 ""
 
 -- 
 
 Thursday, Sep 22, 2022 
-* 09:00 AM – 10:00 AM o Hierarchical Models [Part 1](Day4/Hierarchical-models-1.ipynb) | [Part 2](Day4/Hierarchical-models-2.ipynb); A Price-Whelan  
-* 10:00 AM – 10:30 AM o Break 
-* 10:30 AM – 12:00 PM o  Problem: Hierarchical Models [Solutions](Day4/solutions); A Price-Whelan  
-* 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o [Experimental design for decision-making](Day4/experimental_design.pdf); A Malz 
-* 02:30 PM – 04:00 PM o [Problem Photo-z Option](Day4/expdes-photoz.ipynb) | [Problem Starter](Day4/expdes-starter.ipynb) : Experimental design for decision-making; A Malz 
-* 04:00 PM – 04:30 PM o Break 
-* 04:30 PM – 05:00 PM o Hack Pitch Session  
+
+* 9:00 AM - 9:45 AM o Shaders; A Forbes
+* 09:45 AM – 10:45 AM o [Shaders Problem](); A Forbes
+* 10:45 AM – 11:00 AM o BREAK 
+* 11:00 AM – 12:00 PM o  [More Shaders]()
+* 12:00 PM – 01:00 PM o LUNCH 
+* 01:00 PM – 04:30 PM o Hack Session;  
+* 04:30 PM – 05:00 PM o Hack tag–up & Meeting wrap up 
+
  
 ## Day 5 — Data Ethics: Savannah Thais  
 
@@ -73,11 +75,12 @@ Thursday, Sep 22, 2022
 --  
 
 Friday, Sep 23, 2022
-* 9:00 AM - 9:45 AM o Professional Development I: Elevator Pitches; A Miller/B Scott
-* 09:45 AM – 10:45 AM o [Bayesian Inference with and without Likelihoods](Day5/LFI.ipynb); A Malz 
-* 10:45 AM – 11:00 AM o BREAK 
-* 11:00 AM – 12:00 PM o  Problem: Bayesian Inference with and without Likelihoods; A Malz  
-* 12:00 PM – 01:00 PM o LUNCH 
-* 01:00 PM – 04:30 PM o Hack Session;  
-* 04:30 PM – 05:00 PM o Hack tag–up & Meeting wrap up 
+* 09:00 AM – 10:00 AM o Hierarchical Models [Part 1](Day4/Hierarchical-models-1.ipynb) | [Part 2](Day4/Hierarchical-models-2.ipynb); A Price-Whelan  
+* 10:00 AM – 10:30 AM o Break 
+* 10:30 AM – 12:00 PM o  Problem: Hierarchical Models [Solutions](Day4/solutions); A Price-Whelan  
+* 12:00 PM – 01:30 PM o LUNCH 
+* 01:30 PM – 02:30 PM o [Experimental design for decision-making](Day4/experimental_design.pdf); A Malz 
+* 02:30 PM – 04:00 PM o [Problem Photo-z Option](Day4/expdes-photoz.ipynb) | [Problem Starter](Day4/expdes-starter.ipynb) : Experimental design for decision-making; A Malz 
+* 04:00 PM – 04:30 PM o Break 
+* 04:30 PM – 05:00 PM o Hack Pitch Session  
 

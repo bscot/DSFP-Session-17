@@ -20,7 +20,7 @@ Monday Sep 19, 2022
 * 03:30 PM – 04:00 PM o Break 
 * 04:00 PM – 05:00 PM o [Introduction to Bayesian Statistics](Day1/Bayes.pdf); J Dong 
  
-## Day 2 – Visualization in Practice: Storytelling, Science Communication, and Figure Building: Bryan Scott, Angus Forbes, and Zan Armstrong
+## Day 2 – Visualization in Practice: Storytelling, Science Communication, and Figure Building: Bryan Scott, Angus Forbes, 
 
 ""
 

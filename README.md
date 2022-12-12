@@ -4,7 +4,7 @@ The seventeenth session of the LSSTC DSFP focuses on Data Ethics and Visualizati
 
 # Schedule
  
-## Day 1 – The Science of Perception and the Jobs of Visualization: Bryan Scott & Zan Armstrong
+## Day 1 – The Science of Perception and the Jobs of Visualization: Bryan Scott 
 
 ""
 
@@ -27,9 +27,9 @@ Monday Sep 19, 2022
 -- 
 
 Tuesday, Sep 20, 2022
-* 09:00 AM - 10:00 AM o [Storytelling with Data](); Z Armstrong
+* 09:00 AM - 10:00 AM o [Storytelling with Data](); 
 * 10:00 AM - 10:30 AM o Break 
-* 10:30 AM - 12:00 PM o [Storytelling in Practice]() | [Solution](); Z Armstrong
+* 10:30 AM - 12:00 PM o [Storytelling in Practice]() | [Solution](); 
 * 12:00 PM - 01:30 PM o LUNCH 
 * 01:30 PM - 02:30 PM o [Figure Building and Visualization Libraries](); B Scott 
 * 02:30 PM - 04:00 PM o Problem –– Improving Figures; B Scott  

@@ -11,14 +11,14 @@ The seventeenth session of the LSSTC DSFP focuses on Data Ethics and Visualizati
 --
 
 Monday Sep 19, 2022
-* 09:45 AM – 10:30 AM o  [Introduction to Probability and its Applications](Day1/Probability_and_applications_DSFP_Session_16.ipynb), B Scott 
+* 09:45 AM – 10:30 AM o  [Welcome!: Session 17 Orientation and Reminders](), B Scott 
 * 10:30 AM – 11:00 AM o Break 
-* 11:00 AM – 12:00 PM o  [Problem](Day1/Introduction%20to%20Probability%20Problems%20no%20solutions.ipynb)| [Solution](Day1/Introduction%20to%20Probability%20Problems.ipynb): Introduction to Probability and its Applications, B Scott 
+* 11:00 AM – 12:00 PM o  [The Role of Visualization in a Scientific Workflow](): B Scott 
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o  [Understanding Data, Optimization, and Classical Inference](Day1/ConnectingModelsAndData.ipynb) A Miller   
-* 02:30 PM – 03:30 PM o  [Problem](Day1/MaximumLikelihoodEstimation.ipynb): Optimization; A. Miller 
+* 01:30 PM – 02:30 PM o  [The Science of Perception]()  
+* 02:30 PM – 03:30 PM o  [Problem: The Science of Perception]():
 * 03:30 PM – 04:00 PM o Break 
-* 04:00 PM – 05:00 PM o [Introduction to Bayesian Statistics](Day1/Bayes.pdf); J Dong 
+* 04:00 PM – 05:00 PM o [Vizualization for Exploration](); 
  
 ## Day 2 – Visualization in Practice: Storytelling, Science Communication, and Figure Building: Bryan Scott, Angus Forbes, 
 
@@ -31,11 +31,11 @@ Tuesday, Sep 20, 2022
 * 10:00 AM - 10:30 AM o Break 
 * 10:30 AM - 12:00 PM o [Storytelling in Practice]() | [Solution](); 
 * 12:00 PM - 01:30 PM o LUNCH 
-* 01:30 PM - 02:30 PM o [Figure Building and Visualization Libraries](); B Scott 
-* 02:30 PM - 04:00 PM o Problem –– Improving Figures; B Scott  
+* 01:30 PM - 02:30 PM o [Visualization Libraries](); B Scott 
+* 02:30 PM - 04:00 PM o Problem –– Improving Figures & Visualization Libraries; B Scott  
 * 04:00 PM - 04:30 PM o BREAK 
-* 04:30 PM - 05:15 PM o [Advanced Visualization Libraries (yt, glue (?)](); A Forbes  
-* 05:15 PM - 06:00 PM o [Problem - Advanced Visualization Libraries](); A Forbes
+* 04:30 PM - 05:15 PM o [Advanced Visualization Libraries](); 
+* 05:15 PM - 06:00 PM o [Problem - Advanced Visualization Libraries](); 
 * 06:00 PM - ??:?? PM o Group dinner 
  
 ## Day 3 — Scientific Discovery - Astronomical Visualization  
@@ -45,13 +45,13 @@ Tuesday, Sep 20, 2022
 -- 
 
 Wednesday, Sep 21, 2022
-* 09:00 AM – 09:45 AM o  [Cosmo-Vis and Polyform, Advanced Visualization Principles](Day3/PGM-slides.pdf), A Forbes
+* 09:00 AM – 09:45 AM o  [Cosmo-Vis and Polyform, Advanced Visualization Principles](), 
 * 09:45 AM – 10:15 AM o Break 
-* 10:15 AM – 12:00 PM o  [Problem]()| [Solutions](): Cosmo-Vis Problems, A Forbes
+* 10:15 AM – 12:00 PM o  [Problem]()| [Solutions](): Cosmo-Vis Problems, 
 * 12:00 - 12:30 PM o Hack Pitch Session 
 * 12:30 PM – ??:?? PM o BREAK 
 
-## Day 4 — Scientific Discovery - Advanced Visualization Topics and Hack Day: Angus Forbes
+## Day 4 — Scientific Discovery - Advanced Visualization Topics and Hack Day: 
 
 ""
 
@@ -59,8 +59,8 @@ Wednesday, Sep 21, 2022
 
 Thursday, Sep 22, 2022 
 
-* 9:00 AM - 9:45 AM o Shaders; A Forbes
-* 09:45 AM – 10:45 AM o [Shaders Problem](); A Forbes
+* 9:00 AM - 9:45 AM o Introduction to Shaders; 
+* 09:45 AM – 10:45 AM o [Introduction to Shaders Problem](); 
 * 10:45 AM – 11:00 AM o BREAK 
 * 11:00 AM – 12:00 PM o  [More Shaders]()
 * 12:00 PM – 01:00 PM o LUNCH 
@@ -68,19 +68,19 @@ Thursday, Sep 22, 2022
 * 04:30 PM – 05:00 PM o Hack tag–up & Meeting wrap up 
 
  
-## Day 5 — Data Ethics: Savannah Thais  
+## Day 5 — Data Ethics: 
 
 ""
 
 --  
 
 Friday, Sep 23, 2022
-* 09:00 AM – 10:00 AM o Hierarchical Models [Part 1](Day4/Hierarchical-models-1.ipynb) | [Part 2](Day4/Hierarchical-models-2.ipynb); A Price-Whelan  
+* 09:00 AM – 10:00 AM o [Introduction to Data Ethics]();   
 * 10:00 AM – 10:30 AM o Break 
-* 10:30 AM – 12:00 PM o  Problem: Hierarchical Models [Solutions](Day4/solutions); A Price-Whelan  
+* 10:30 AM – 12:00 PM o [Advanced Data Ethics I](); 
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o [Experimental design for decision-making](Day4/experimental_design.pdf); A Malz 
-* 02:30 PM – 04:00 PM o [Problem Photo-z Option](Day4/expdes-photoz.ipynb) | [Problem Starter](Day4/expdes-starter.ipynb) : Experimental design for decision-making; A Malz 
-* 04:00 PM – 04:30 PM o Break 
-* 04:30 PM – 05:00 PM o Hack Pitch Session  
+* 01:30 PM – 02:30 PM o [Advanced Data Ethics II](); A Malz 
+* 02:30 PM – 04:00 PM o [Problem/Collaborative Session: Data Ethics]() 
+* 04:00 PM – 04:30 PM o End of Session 17 Survey
+* 04:30 PM – 05:00 PM o Session 17 Conclusion
 

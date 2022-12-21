@@ -79,7 +79,7 @@ Friday, Sep 23, 2022
 * 10:00 AM – 10:30 AM o Break 
 * 10:30 AM – 12:00 PM o [Advanced Data Ethics I](); 
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o [Advanced Data Ethics II](); A Malz 
+* 01:30 PM – 02:30 PM o [Advanced Data Ethics II](); 
 * 02:30 PM – 04:00 PM o [Problem/Collaborative Session: Data Ethics]() 
 * 04:00 PM – 04:30 PM o End of Session 17 Survey
 * 04:30 PM – 05:00 PM o Session 17 Conclusion

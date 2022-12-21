@@ -4,23 +4,23 @@ The seventeenth session of the LSSTC DSFP focuses on Data Ethics and Visualizati
 
 # Schedule
  
-## Day 1 – The Science of Perception and the Jobs of Visualization: Bryan Scott 
+## Day 1 – The Science of Perception and the Jobs of Visualization: 
 
 ""
 
 --
 
 Monday Sep 19, 2022
-* 09:45 AM – 10:30 AM o  [Welcome!: Session 17 Orientation and Reminders](), B Scott 
+* 09:45 AM – 10:30 AM o  [Welcome!: Session 17 Orientation and Reminders](), 
 * 10:30 AM – 11:00 AM o Break 
-* 11:00 AM – 12:00 PM o  [The Role of Visualization in a Scientific Workflow](): B Scott 
+* 11:00 AM – 12:00 PM o  [The Role of Visualization in a Scientific Workflow]():
 * 12:00 PM – 01:30 PM o LUNCH 
 * 01:30 PM – 02:30 PM o  [The Science of Perception]()  
 * 02:30 PM – 03:30 PM o  [Problem: The Science of Perception]():
 * 03:30 PM – 04:00 PM o Break 
 * 04:00 PM – 05:00 PM o [Vizualization for Exploration](); 
  
-## Day 2 – Visualization in Practice: Storytelling, Science Communication, and Figure Building: Bryan Scott, Angus Forbes, 
+## Day 2 – Visualization in Practice: Storytelling, Science Communication, and Figure Building: 
 
 ""
 
@@ -31,8 +31,8 @@ Tuesday, Sep 20, 2022
 * 10:00 AM - 10:30 AM o Break 
 * 10:30 AM - 12:00 PM o [Storytelling in Practice]() | [Solution](); 
 * 12:00 PM - 01:30 PM o LUNCH 
-* 01:30 PM - 02:30 PM o [Visualization Libraries](); B Scott 
-* 02:30 PM - 04:00 PM o Problem –– Improving Figures & Visualization Libraries; B Scott  
+* 01:30 PM - 02:30 PM o [Visualization Libraries]();
+* 02:30 PM - 04:00 PM o Problem –– Improving Figures & Visualization Libraries; 
 * 04:00 PM - 04:30 PM o BREAK 
 * 04:30 PM - 05:15 PM o [Advanced Visualization Libraries](); 
 * 05:15 PM - 06:00 PM o [Problem - Advanced Visualization Libraries](); 

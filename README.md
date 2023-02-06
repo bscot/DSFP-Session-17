@@ -19,9 +19,7 @@ Monday Sep 19, 2022
 * 01:30 PM – 02:30 PM o  Paul Rosen Lecture 1
 * 02:30 PM – 4:00 PM o  [Problem: Paul Rosen Lecture 1]():
 * 04:00 PM – 04:30 PM o Break 
-
-
-* 04:00 PM – 05:00 PM o [Paul Rosen Lecture 2](); 
+* 04:30 PM – 05:30 PM o [Common Errors in Science Communication](); 
  
 ## Day 2 – Visualization in Practice: Storytelling, Science Communication, and Figure Building: 
 
@@ -31,11 +29,6 @@ Monday Sep 19, 2022
 
 
 
-
-- Lecture on physically based volume rendering (how to interpret volumetric data as a physical quantity so that we can use light transport methods to visualize them) ~ 1 hour
-- Lecture on Polyphorm/PolyPhy (motivation, history, methodology, scientific results, spinoff art, future directions) ~ 1 hour
-- Praktikum on volume vis (detailed analysis of existing visualizations and brainstorming around it motivated by Tufte's canon, hands-on exercise in Python on doing a custom volume vis either using something readily available like Napari or even manually coding a GPU raymarching shader in Taichi) ~ 1.5 hours (or maybe 2 hours if I can think of something around manual sketching in the meantime, not sure yet)
-- Workshop on PolyPhy (having a few sample datasets, loading them up and reconstructing & visualizing the underlying networks) ~ 1.5 hours
 
 Tuesday, Sep 20, 2022
 * 09:00 AM - 10:00 AM o [Lecture: physically based volume rendering]() Oskar Elek; 

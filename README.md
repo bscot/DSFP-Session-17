@@ -10,7 +10,7 @@ The seventeenth session of the LSSTC DSFP focuses on Data Ethics and Visualizati
 
 --
 
-Monday Sep 19, 2022
+Monday Feb 27, 2023
 * 09:00 AM – 9:30 AM o  Welcome!: Session 17 Orientation and Reminders; B Scott 
 * 09:30 AM – 10:30 AM o  Introduction to Visualization in a Scientific Workflow; B Scott
 * 10:30 AM – 11:00 AM o Break 
@@ -27,7 +27,7 @@ Monday Sep 19, 2022
 
 -- 
 
-Tuesday, Sep 20, 2022
+Tuesday, Feb 28, 2023
 * 09:00 AM - 10:00 AM o Lecture: physically based volume rendering; O Elek 
 * 10:00 AM - 10:30 AM o Break 
 * 10:30 AM - 12:00 PM o Problem: Physically Based Volume Rendering; O Elek 
@@ -46,7 +46,7 @@ Tuesday, Sep 20, 2022
 
 -- 
 
-Wednesday, Sep 21, 2022
+Wednesday, Mar 1, 2023
 * 09:00 AM – 10:00 AM o  Introduction to Polyphorm and PolyPh; O Elek, 
 * 10:00 AM – 10:30 AM o Break 
 * 10:30 AM – 12:00 PM o  Problem: Polyphorm; O Elek 
@@ -59,7 +59,7 @@ Wednesday, Sep 21, 2022
 
 -- 
 
-Thursday, Sep 22, 2022 
+Thursday, Mar 2, 2023 
 
 * 9:00 AM - 9:45 AM o Introduction to Visualization Tools; B Scott
 * 09:45 AM – 10:45 AM o Problem: Applied Visualization Tools; B Scott 
@@ -76,7 +76,7 @@ Thursday, Sep 22, 2022
 
 --  
 
-Friday, Sep 23, 2022
+Friday, Mar 3, 2023
 * 09:00 AM – 10:15 AM o Intro to AI Ethics and Responsible Data Science for Physicists; S Thais   
 * 10:15 AM – 10:30 AM o Break 
 * 10:30 AM – 12:00 PM o Problem: Exploring Sources of Unfairness and Mistakes in ML Models; S Thais   

@@ -6,7 +6,9 @@ The seventeenth session of the LSSTC DSFP focuses on Data Ethics and Visualizati
  
 ## Day 1 – The Science of Perception and the Jobs of Visualization: 
 
-""
+"Does this subject move me to feel, think and dream? Can I visualize a print – my own personal statement of what I feel and want to convey – from the subject before me?" 
+
+~ Ansel Adams
 
 --
 
@@ -23,7 +25,9 @@ Monday Feb 27, 2023
  
 ## Day 2 – Visualization in Practice: Storytelling, Science Communication, and Figure Building: 
 
-""
+"To see is to forget the name of the thing one sees." 
+
+~ Paul Valéry (attributed) 
 
 -- 
 
@@ -42,7 +46,9 @@ Tuesday, Feb 28, 2023
  
 ## Day 3 — Scientific Discovery - Astronomical Visualization  
 
-""
+"The greatest value of a picture is when it forces us to notice what we never expected to see."
+
+~ John Tukey
 
 -- 
 
@@ -55,7 +61,9 @@ Wednesday, Mar 1, 2023
 
 ## Day 4 — Scientific Discovery - Advanced Visualization Topics and Hack Day: 
 
-""
+"Beautiful Graphics do not traffic with the trivial."
+
+~ Edward R. Tufte
 
 -- 
 
@@ -72,7 +80,9 @@ Thursday, Mar 2, 2023
  
 ## Day 5 — Data Ethics: 
 
-""
+"I try to do my science in a moral way, and, I believe that, ideally, science should be looked upon as something that helps us understand our role in the universe."
+
+~ Vera Rubin
 
 --  
 

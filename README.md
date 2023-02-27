@@ -1,6 +1,6 @@
 # Session 17
 
-The seventeenth session of the LSSTC DSFP focuses on Data Ethics and Visualization. 
+The seventeenth session of the LSSTC DSFP is held at Texas A&M University and focuses on Data Ethics and Visualization. 
 
 # Schedule
  
